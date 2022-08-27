@@ -25,11 +25,5 @@ def buble_sort(array):
 
 
 
-def helo():
-    """
-    >>> helo()
-    Hello!
-    """
-    print("Hello!")
 
 doctest.testmod()
